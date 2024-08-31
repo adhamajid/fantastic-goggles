@@ -1,12 +1,11 @@
-git clone <URL-repository-fork>
+git clone "URL-repository-fork"
 
-cd <nama-direktori-repository>
+cd "nama-direktori-repository"
 
-git checkout -b <namaBranch-baru>
+git checkout -b "namaBranch-baru"
 
 =====================================
 setalahnya auto dibenerin sama VSCode
-=====================================
 
 tapi bisa dibuat manual pake bash git
 
@@ -14,7 +13,7 @@ git add .
 
 git commit -m "Pesan commit Anda"
 
-git push origin <nama-branch-pribadi>
+git push origin "nama-branch-pribadi"
 
 ==========================================
 
