@@ -4,7 +4,7 @@ cd "nama-direktori-repository"
 
 git checkout -b "namaBranch-baru"
 
-=========================================
+==========================================
 setalahnya auto dibenerin sama VSCode
 
 tapi bisa dibuat manual pake bash git
